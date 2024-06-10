@@ -6,7 +6,7 @@
 
 👀 I`m Interested In Game Making And Machine Learning Projects 👀
 
-🌱 I`m Currently Learning In Ordem Do Sant'Iago 🌱
+🌱 I`m Currently In 10th Grade 🌱
 
 💻 I Can Make Basic Sites! 
 
