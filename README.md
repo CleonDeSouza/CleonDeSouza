@@ -4,7 +4,7 @@
 
 👋 Hi, I`m Cleon De Souza
 
-👀 I`m Interested In Machine Learning And Application Projects 👀
+👀 I`m Interested In Game Making And Machine Learning Projects 👀
 
 🌱 I`m Currently Learning In Ordem Do Sant'Iago 🌱
 
