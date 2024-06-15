@@ -4,7 +4,7 @@
 
 👋 Hi, I`m Cleon De Souza
 
-👀 I`m Interested In Game Making And Machine Learning Projects 👀
+👀 I`m Interested In Game Machine And Machine Learning Projects 👀
 
 🌱 I`m Currently In 10th Grade 🌱
 
