@@ -8,7 +8,7 @@ I like playing with data, but also like robotics and automation.
 ************************************************************
 
 I am focusing on Mastering Python, 
-However my mastery goals are C++, C & SQL.
+but eventually want to lean C++, C & SQL.
 
 ************************************************************
 
