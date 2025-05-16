@@ -1,15 +1,13 @@
-************************************************************
-
+#
 Hello! I'm Cleon,
 A 16 year old in living in Corroios.
 I like coding, skateboarding, guitars and chess.
-I like playing with data, but also like robotics and automation.
+I'd like to specialize in the offensive side for cybersecurity some day.
 
-************************************************************
-
+#
 I am focusing on Mastering Python, 
-but eventually want to lean C++, C & SQL.
+but eventually I'll want to learn C++, C, Bash, JS, ControlPrompt & SQL.
+#
 
-************************************************************
-
-✉️ Business Email ~ cleonjdesouza@gmail.com
+**✉️ Business Email ~ cleonjdesouza@gmail.com**
+#
