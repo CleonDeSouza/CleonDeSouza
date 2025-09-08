@@ -1,13 +1,14 @@
 #
-Hello! I'm Cleon,
-A 16 year old in living in Corroios.
-I like coding, skateboarding, guitars and chess.
-I'd like to specialize in the offensive side for cybersecurity some day.
+Hello! I'm Cleon de Souza,
+A 16 year old in living in Portugal.
+I like mastering my skills in coding, guitar and chess.
+I constantly practice my knowledge in Penetration testing and SOC analysis.
 
 #
-I am focusing on Mastering Python, 
-but eventually I'll want to learn C++, C, Bash, JS, ControlPrompt & SQL.
+While focusing on Mastering Python, 
+My goals are to master my C, C#, Bash, JS, ControlPrompt & SQL knowledge.
 #
 
-**✉️ Business Email ~ cleonjdesouza@gmail.com**
+
+**If you'd like to contact me, you can send an email through cleonjdesouza@gmail.com**
 #
